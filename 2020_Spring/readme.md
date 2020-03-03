@@ -28,7 +28,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Cabudoy, Jason
 
-- [X] Castillo Mego, Fernando (@fcmego) 
+- [X] Castillo Mego, Fernando Manuel (@fcmego) 
 
 - [ ] Chae, Jeong Hoon
 
